@@ -36,6 +36,10 @@
   - Right
   - Top
   - Z Index
+- Sizing
+  - Height
+  - Line height
+  - Width
 - Spacing
   - Margin
   - Margin Bottom
