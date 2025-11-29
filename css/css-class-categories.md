@@ -19,16 +19,19 @@
   - Border Right Width
   - Border Top Width
 - Color
+- Display
 - Effect
   - Animation
   - Box Shadow
   - Filter
   - Opacity
   - Transform
+- Flex
 - Font
   - Font Family
   - Font Size
   - Font Weight
+- Grid
 - Position
   - Bottom
   - Left
