@@ -1,1 +1,13 @@
-
+- Divide code into blocks (identify global, page, and component blocks)
+- Build global blocks
+  - Create global CSS classes
+  - Create global JS functions
+- Build component blocks
+  - Create component JS functions
+  - Create component CSS classes
+  - Write component HTML
+- Build pages
+  - Use components and global blocks
+  - Add page HTML
+  - Add page CSS classes
+  - Add page JS functions
