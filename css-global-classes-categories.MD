@@ -1,0 +1,40 @@
+## CSS Global Classes Categories
+
+- Background
+  - Background Color
+- Border
+  - Border Color
+  - Border Radius
+  - Border Bottom Left Radius
+  - Border Bottom Right Radius
+  - Border Top Left Radius
+  - Border Top Right Radius
+  - Border Width
+- Color
+- Effect
+  - Animation
+  - Box Shadow
+  - Filter
+  - Transform
+- Font
+  - Font Family
+  - Font Size
+  - Font Weight
+- Position
+  - Bottom
+  - Left
+  - Position
+  - Right
+  - Top
+  - Z Index
+- Spacing
+  - Margin
+  - Margin Bottom
+  - Margin Left
+  - Margin Right
+  - Margin Top
+  - Padding
+  - Padding Bottom
+  - Padding Left
+  - Padding Right
+  - Padding Top
