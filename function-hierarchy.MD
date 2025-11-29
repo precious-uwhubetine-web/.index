@@ -1,0 +1,4 @@
+- Display loader
+- Load images
+- Load user session
+- Display UI
