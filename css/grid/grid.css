@@ -1,0 +1,6 @@
+.grid-flow-column {
+  grid-auto-flow: column;
+}
+.grid-flow-row {
+  grid-auto-flow: row;
+}
