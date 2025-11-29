@@ -23,6 +23,7 @@
   - Animation
   - Box Shadow
   - Filter
+  - Opacity
   - Transform
 - Font
   - Font Family
