@@ -44,6 +44,7 @@
   - Line height
   - Width
 - Spacing
+  - Gap
   - Margin
   - Margin Bottom
   - Margin Left
